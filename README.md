@@ -1,6 +1,6 @@
-<p align="center">
-  <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</p>
+<div style="width: 100%; height: 160px; overflow: hidden; border-radius: 6px; margin-bottom: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="width: 100%; min-height: 160px; object-fit: cover; object-position: center;">
+</div>
 
 <br/>
 
